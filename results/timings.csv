@@ -1,0 +1,13 @@
+operation,structure,n,time_sec
+append,DynamicArray,10000,0.003514250
+append,DynamicArray,100000,0.033331667
+append,DynamicArray,1000000,0.394755875
+append,list (Python),10000,0.000119375
+append,list (Python),100000,0.001138806
+append,list (Python),1000000,0.013170124
+insert_front,DynamicArray,10000,0.001327195
+insert_front,DynamicArray,100000,0.013235736
+insert_front,DynamicArray,1000000,0.224428889
+insert_front,list (Python),10000,0.000003097
+insert_front,list (Python),100000,0.000029180
+insert_front,list (Python),1000000,0.001601458
